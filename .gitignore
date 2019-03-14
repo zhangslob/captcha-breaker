@@ -113,3 +113,5 @@ log
 
 # node.js
 node_modules/
+
+.idea
