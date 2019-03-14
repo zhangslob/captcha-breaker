@@ -103,9 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# train data
-src/data/captcha
-src/data/train
 
 # model log
 log
